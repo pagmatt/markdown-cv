@@ -2,10 +2,10 @@
 layout: cv
 title: Pagin Matteo's CV
 ---
-# Isaac Newton
+# Pagin Matteo
 Information Engineer, ICT MSc. Student at the University of Padua
 
-<div id="webaddress">
+<div id="webaddress"> 
 <a href="mattpagg@gmail.com">mattpagg@gmail.com</a>
 <a">+39 3495148972</a>
 </div>
@@ -30,16 +30,17 @@ Final grade: 106
 __High school diploma at "Liceo Scientifico, SA Albert Einstein di Piove di Sacco".__
 
 
-## Occupation
+## Work Experience 
+`Summer of 2017, 2018`
+__“Studente 200 ore” at the University of Padua.__
+Work assistant in various University’s facilities.
 
-`1600`
-__Royal Mint__, London
+`2015-Ongoing`
+__“High school students tutoring.__
+Private tutoring for high school students on scientific subjects (Math, Physics).
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
 
 
 
