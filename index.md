@@ -22,7 +22,7 @@ Italian, 23 years old ICT student with a strong analytical background in various
 
 __MSc. in ICT, curricula Cybersystems at the University of Padua. |  Oct 2018 - Ongoing__ <br>
 Current GPA: 29.7 <br>
-Attended courses: 5G Systems, Information Security, Cryptography, Network Science, Network Modeling, Network simulation, Big Data, Machine Learning and Web App. 
+Attended courses: 5G Systems, Information Security, Cryptography, Network Science, Network Modeling, Network simulation, Game Theory, Big Data, Machine Learning, 3D Augmented & Reality and Web Applications. 
 
 __BSc. in Information Engineering, University of Padua. | 2015 - Sept 2018__<br>
 Final grade: 106
@@ -35,7 +35,7 @@ Final grade: 98
 __“Studente 200 ore” at the University of Padua. | 2017, 2018__<br>
 Work assistant in various University’s facilities.
 
-__“High school students tutoring. | 2015 - Ongoing__<br>
+__High school students tutoring. | 2015 - Ongoing__<br>
 Private tutoring for high school students on scientific subjects (Math, Physics).
 
 
@@ -48,12 +48,12 @@ __Frontend technologies:__ JavaScript, HTML, CSS<br>
 __Others:__ ns3, Blender, Adobe Photoshop<br>
 
 ## Personal Interests
-Technologies wise, I like to work with 3D Graphics software such as Blender and I am passionate about Graphics, UI/UX in general. From a less engineering standpoint, I practice various sports such as swimming, track and field and Judo; I also (used to) play the guitar. Finally, I am also interested in the socio-economic consequences of the current emerging technologies.<br>
+Technologies wise I like to fiddle around with 3D Graphics softwares, such as Blender, and I am passionate about computer graphics in general. From a less engineering standpoint, I practice various sports such as swimming, track and field and Judo; I also (used to) play the guitar. Finally, I am also interested in the socio-economic consequences of the current emerging technologies.<br>
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2020 -->
 
 
