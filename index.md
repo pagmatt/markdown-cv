@@ -6,7 +6,7 @@ title: Pagin Matteo's CV
 Information Engineer, ICT MSc. student at the University of Padua
 
 <div id="webaddress"> 
-<a href="mattpagg@gmail.com">mattpagg@gmail.com</a> 
+<a href="mailto:mattpagg@gmail.com">mattpagg@gmail.com</a> 
 | 
 <a>+39 3495148972</a> 
 |
