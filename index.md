@@ -24,7 +24,7 @@ TODO: update. Information Engineering PhD student with a strong analytical backg
 
 __PhD in Information Engineering, University of Padova, Italy. |  Oct 2021 - Ongoing__ <br>
 Research focus on the design and evaluation of protocols for next-generation cellular networks (5G and beyond).
-Collaborated with several research institutions and companies, including Northeastern University, CTTC, NYU, TU Darmstadt, Orange, Viasat and Huawei Milan.
+Collaborated with several research institutions and companies, including Northeastern University, CTTC OpenSim, NYU Wireless, TU Darmstadt, Orange, Viasat, Sharp Laboratories of America and Huawei Milan.
 
 __Visiting researcher, WiNES Lab., Northeastern University, Boston, MA. |  Mar 2023 - Sep 2023__ <br>
 Worked on designing and implementing O-RAN-like interfaces for 802.11x devices and the development of an SDR-based testing platform for RIC-aided multi-RAT network deployments.
