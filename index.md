@@ -24,14 +24,14 @@ As part of my research endeavors I have been developing and maintaining the [ns-
 ## Education
 
 __PhD in Information Engineering, University of Padova, Italy. |  Oct 2021 - Ongoing [Expected program end: Sep 2024]__ <br>
-Research focus on the design and evaluation of protocols for next-generation cellular networks (5G and beyond).
+Design and system-level performance evaluation of protocols for next-generation cellular networks (5G and beyond).
 Collaborated with several research institutions and companies, including Northeastern University, CTTC OpenSim, NYU Wireless, TU Darmstadt, Orange, Viasat, Sharp Laboratories of America and Huawei Milan.
 
 __Visiting researcher, WiNES Lab., Northeastern University, Boston, MA. |  Mar 2023 - Sep 2023__ <br>
-Worked on designing and implementing O-RAN-like interfaces for 802.11x devices and the development of an SDR-based testing platform for RIC-aided multi-RAT network deployments.
+Design and implementation of O-RAN-like interfaces for 802.11x devices and development of an SDR-based testing platform for RIC-managed multi-RAT network deployments.
 
 __Postgraduate researcher, SIGNET Lab., University of Padova, Italy. |  Nov 2020 - Sep 2021__ <br>
-Worked on a joint project with Orange which targeted the identification of promising solutions for NR-Light, and their end-to-end evaluation via system-level simulations.
+Identification of promising solutions for NR-Light, and their end-to-end evaluation via system-level simulations.
 General [ns-3 mmWave module](https://github.com/nyuwireless-unipd/ns3-mmwave) development.
 
 __MSc. in ICT, University of Padova, Italy. |  Oct 2018 - Ongoing__ <br>
@@ -48,14 +48,14 @@ __High school diploma, "Liceo Scientifico Albert Einstein", Piove di Sacco, Ital
 ## Work Experience 
 
 __Master and bachelor thesis supervision, University of Padova. | 2020 - Ongoing__<br>
-Supervised thesis focusing on NTN channel modeling, simulating 5G NR beam management, and analyzing the performance of various TCP variants over high BDP channels. 
+Supervision of thesis focusing on NTN channel modeling, simulation of 5G NR beam management, and analysis of the performance of various TCP variants over high BDP channels. 
 
 __Google Summer of Code 2022 with the ns-3 organization. | May 2022 - Sep2022__<br>
-Worked on the design and the development of a performance-oriented MIMO channel model
-for ns-3, and on the optimization of the ns-3 channel model-related algebra routines.
+Dsign and development of a performance-oriented MIMO channel model
+for ns-3, and on optimization of the ns-3 channel model-related algebra routines.
 
 __“Studente 200 ore”, University of Padova. | 2017, 2018__<br>
-Worked as an assistant in various University’s facilities.
+Assistant in various University’s facilities.
 
 __High school students tutoring. | 2015 - 2019__<br>
 Private tutoring for high school students on scientific subjects (Math, Physics).
