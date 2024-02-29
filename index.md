@@ -18,7 +18,8 @@ PhD student at the University of Padova, Telecommunications Engineer
 
 ## Summary
 
-TODO: update. Information Engineering PhD student with a strong analytical background in various emerging technologies, such as Machine Learning, Big Data and Information Security. Particularly passionate about evolving such technologies forward and facing new challenges.
+I am a 3rd year PhD student interested in the modeling, analysis and design of cellular telecommunication networks. In particular, most of my research focuses on protocol design and performance evaluation of 5/6G communication networks, primarily using simulation tools, such as ns-3, and SDR-based testbeds such as <a href="https://www.northeastern.edu/colosseum/">Colosseum<a>.
+As part of my research endeavors I have been developing and maintaining  <a href="https://github.com/nyuwireless-unipd/ns3-mmwave">ns-3 mmWave module<a>, i.e., an ns-3 module for simulating 5G networks and evaluating the performance of novel 5/6G solutions.
 
 ## Education
 
@@ -69,7 +70,7 @@ Awarding institution: 2020 IEEE Mediterranean Communication and Computer Network
 
 
 ## Skills
-TODO: update. I am an hard-working, extremely curious person who is always ready and willing to learn new things. I am also collaborative and capable to work well in a team of people, as of being responsible of my own eventual mistakes: I developed these perks during multiple University's team projects and by being a Scout for 5 years. <br>
+TODO: update and move to summary. I am an hard-working, extremely curious person who is always ready and willing to learn new things. I am also collaborative and capable to work well in a team of people. <br>
 
 __Languages:__ Italian - Mother tongue, English - B2 <br>
 __Programming languages:__ Python (NumPy, Matplotlib, Seaborn, SciPy), C++, C, Java, MATLAB<br>
