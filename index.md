@@ -6,7 +6,7 @@ title: Matteo Pagin's CV
 PhD student at the University of Padova, Telecommunications Engineer
 
 <div id="webaddress"> 
-<a href="mailto:mattpagg@gmail.com">E-mail</a> 
+<a href="mailto:mattpagg@gmail.com">mattpagg@gmail.com"</a> 
 <!-- | 
 <a>+39 3495148972</a>  -->
 |
@@ -75,7 +75,7 @@ TODO: update and move to summary. I am an hard-working, extremely curious person
 __Languages:__ Italian - Mother tongue, English - B2 <br>
 __Programming languages:__ Python (NumPy, Matplotlib, Seaborn, SciPy), C++, C, Java, MATLAB<br>
 __Othe computing:__ ns-3, Git, LaTeX, Docker, Bash, Blender, Adobe Photoshop<br>>
-__Others:__ Working knowledge of 3GPP LTE and NR and O-RAN standards,<br>
+__Others:__ Working knowledge of 3GPP (LTE, NR) and O-RAN standards,<br>
 __Driving license:__ B <br>
 
 <!-- ## Personal Interests
