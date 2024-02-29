@@ -18,7 +18,7 @@ PhD student at the University of Padova, Telecommunications Engineer
 
 ## Summary
 
-I am a 3rd year PhD student interested in the modeling, analysis and design of cellular telecommunication networks. In particular, most of my research focuses on protocol design for 5/6G communication networks, and their system-level performance evaluation using simulation tools such as <a href="https://www.nsnam.org/">ns-3<a>, and SDR-based testbeds such as <a href="https://www.northeastern.edu/colosseum/">Colosseum<a>.
+I am a 3rd year PhD student interested in the modeling, analysis and design of cellular telecommunication networks. In particular, most of my research focuses on protocol design for 5/6G communication networks, and their system-level performance evaluation using simulation tools such as <a href="https://www.nsnam.org">ns-3<a>, and SDR-based testbeds such as <a href="https://www.northeastern.edu/colosseum">Colosseum<a>.
 As part of my research endeavors I have been developing and maintaining <a href="https://github.com/nyuwireless-unipd/ns3-mmwave">ns-3 mmWave module<a>, i.e., an ns-3 module for simulating 5G networks and evaluating the performance of novel 5/6G solutions.
 
 ## Education
