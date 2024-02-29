@@ -6,9 +6,11 @@ title: Pagin Matteo's CV
 Telecommunications Engineer, PhD student at the University of Padua
 
 <div id="webaddress"> 
-<a href="mailto:mattpagg@gmail.com">mattpagg@gmail.com</a> 
+<a href="mailto:mattpagg@gmail.com">E-mail</a> 
 <!-- | 
 <a>+39 3495148972</a>  -->
+|
+<a href="https://scholar.google.com/citations?user=VDBFuXgAAAAJ&hl=en" >Google Scholar</a>
 |
 <a href="https://www.linkedin.com/in/matteo-pagin-4a7b82171/" >Linkedin</a>
 </div>
@@ -21,34 +23,36 @@ Information Engineering PhD student with a strong analytical background in vario
 ## Education
 
 __PhD in Information Engineering, University of Padua. |  Oct 2021 - Ongoing__ <br>
-TODO: add description of activities.
+Research focus on the design and evaluation of protocols for next-generation cellular networks (5G and beyond).
+Collaborated with several research institutions and companies, including Northeastern University, CTTC, NYU, TU Darmstadt, Orange, Viasat and Huawei Milan.
 
 __Visiting researcher, WiNES Lab., Northeaster University, Boston, MA, USA. |  Mar 2023 - Sep 2023__ <br>
-TODO: add description of activities.
+Worked on designing and implementing O-RAN-like interfaces for 802.11 devices and the development of an SDR-based testing platform for RIC-aided multi-RAT network deployments.
 
 __Postgraduate researcher, SIGNET Lab., University of Padua. |  Nov 2020 - Sep 2021__ <br>
-Worked on a joint project with Orange which targeted the identification of promising
-solutions for NR-Light, and their end-to-end evaluation via system-level simulations.
-General development of the mmWave ns-3 module.
+Worked on a joint project with Orange which targeted the identification of promising solutions for NR-Light, and their end-to-end evaluation via system-level simulations.
+General development of the <a href="https://github.com/nyuwireless-unipd/ns3-mmwave">ns-3 mmWave module<a>.
 
 __MSc. in ICT, curricula Cybersystems, University of Padua. |  Oct 2018 - Ongoing__ <br>
 Final grade: 110 Cum Laude
 
 __BSc. in Information Engineering, University of Padua. | 2015 - Sept 2018__<br>
+A
 
 __High school diploma at "Liceo Scientifico, SA Albert Einstein di Piove di Sacco". | 2010 - 2015__<br>
-
+A
 
 ## Work Experience 
 
 __Master and bachelor thesis supervision, University of Padua. | 2020 - Ongoing__<br>
+A
 
 __Google Summer of Code 2022 with the ns-3 organization. | May 2022 - Sep2022__<br>
 Worked on the design and the development of a performance-oriented MIMO channel model
 for ns-3, and on the optimization of the ns-3 channel model-related algebra routines.
 
 __“Studente 200 ore”, University of Padua. | 2017, 2018__<br>
-Work assistant in various University’s facilities.
+Worked as an assistant in various University’s facilities.
 
 __High school students tutoring. | 2015 - 2019__<br>
 Private tutoring for high school students on scientific subjects (Math, Physics).
@@ -67,7 +71,7 @@ I am an hard-working, extremely curious person who is always ready and willing t
 __Languages:__ Italian - Mother tongue, English - B2 <br>
 __Programming languages:__ Python (NumPy, Matplotlib, Seaborn, SciPy), C++, C, Java, MATLAB<br>
 __Frontend technologies:__ JavaScript, HTML, CSS<br>
-__Others:__ ns-3, Docker, Bash, Blender, Adobe Photoshop<br>
+__Others:__ ns-3, O-RAN, Git, LaTeX, Docker, Bash, Blender, Adobe Photoshop<br>
 __Driving license:__ B <br>
 
 <!-- ## Personal Interests
