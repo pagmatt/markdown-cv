@@ -38,7 +38,7 @@ __MSc. in ICT, University of Padova, Italy. |  Oct 2018 - Ongoing__ <br>
 Curricula Cybersystems.
 Final grade: 110 Cum Laude.
 
-__BSc. in Information Engineering, University of Padova, Italy. | 2015 - Sept 2018__
+__BSc. in Information Engineering, University of Padova, Italy. | 2015 - Sep 2018__
 <br>
 
 __High school diploma, "Liceo Scientifico Albert Einstein", Piove di Sacco, Italy. | 2010 - 2015__ 
@@ -74,7 +74,7 @@ TODO: update and move to summary. I am an hard-working, extremely curious person
 
 __Languages:__ Italian - Mother tongue, English - B2 <br>
 __Programming languages:__ Python (NumPy, Matplotlib, Seaborn, SciPy), C++, C, Java, MATLAB<br>
-__Othe computing:__ ns-3, Git, LaTeX, Docker, Bash, Blender, Adobe Photoshop<br>>
+__Othe computing:__ ns-3, Git, LaTeX, Docker, Bash, Blender, Adobe Photoshop<br>
 __Others:__ Working knowledge of 3GPP (LTE, NR) and O-RAN standards.<br>
 __Driving license:__ B <br>
 
