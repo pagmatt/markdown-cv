@@ -18,8 +18,8 @@ PhD student at the University of Padova, Telecommunications Engineer
 
 ## Summary
 
-I am a 3rd year PhD student interested in the modeling, analysis and design of cellular telecommunication networks. In particular, most of my research focuses on protocol design for 5/6G communication networks, and their system-level performance evaluation using simulation tools such as <a href="https://www.nsnam.org">ns-3<a>, and SDR-based testbeds such as <a href="https://www.northeastern.edu/colosseum">Colosseum<a>.
-As part of my research endeavors I have been developing and maintaining <a href="https://github.com/nyuwireless-unipd/ns3-mmwave">ns-3 mmWave module<a>, i.e., an ns-3 module for simulating 5G networks and evaluating the performance of novel 5/6G solutions.
+I am a 3rd year PhD student interested in the modeling, analysis and design of cellular telecommunication networks. In particular, most of my research focuses on protocol design for 5/6G communication networks, and their system-level performance evaluation using simulation tools such as [ns-3](https://www.nsnam.org), and SDR-based testbeds such as [Colosseum](https://www.northeastern.edu/colosseum).
+As part of my research endeavors I have been developing and maintaining the (ns-3 mmWave module)[https://github.com/nyuwireless-unipd/ns3-mmwave], i.e., an ns-3 module for simulating 5G networks and evaluating the performance of novel 5/6G solutions.
 
 ## Education
 
@@ -32,7 +32,7 @@ Worked on designing and implementing O-RAN-like interfaces for 802.11x devices a
 
 __Postgraduate researcher, SIGNET Lab., University of Padova, Italy. |  Nov 2020 - Sep 2021__ <br>
 Worked on a joint project with Orange which targeted the identification of promising solutions for NR-Light, and their end-to-end evaluation via system-level simulations.
-General development of the <a href="https://github.com/nyuwireless-unipd/ns3-mmwave">ns-3 mmWave module<a>.
+General [ns-3 mmWave module](https://github.com/nyuwireless-unipd/ns3-mmwave) development.
 
 __MSc. in ICT, University of Padova, Italy. |  Oct 2018 - Ongoing__ <br>
 Curricula Cybersystems.
