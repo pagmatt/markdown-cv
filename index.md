@@ -23,7 +23,7 @@ As part of my research endeavors I have been developing and maintaining the [ns-
 
 ## Education
 
-__PhD in Information Engineering, University of Padova, Italy. |  Oct 2021 - Ongoing__ <br>
+__PhD in Information Engineering, University of Padova, Italy. |  Oct 2021 - Ongoing [Expected program end: Sep 2024]__ <br>
 Research focus on the design and evaluation of protocols for next-generation cellular networks (5G and beyond).
 Collaborated with several research institutions and companies, including Northeastern University, CTTC OpenSim, NYU Wireless, TU Darmstadt, Orange, Viasat, Sharp Laboratories of America and Huawei Milan.
 
@@ -74,8 +74,8 @@ TODO: update and move to summary. I am an hard-working, extremely curious person
 
 __Languages:__ Italian - Mother tongue, English - B2 <br>
 __Programming languages:__ Python (NumPy, Matplotlib, Seaborn, SciPy), C++, C, Java, MATLAB<br>
-__Frontend technologies:__ JavaScript, HTML, CSS<br>
-__Others:__ ns-3, O-RAN, Git, LaTeX, Docker, Bash, Blender, Adobe Photoshop<br>
+__Othe computing:__ ns-3, Git, LaTeX, Docker, Bash, Blender, Adobe Photoshop
+__Others:__ Working knowledge of 3GPP LTE and NR and O-RAN standards,<br>
 __Driving license:__ B <br>
 
 <!-- ## Personal Interests
