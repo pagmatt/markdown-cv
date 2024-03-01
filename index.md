@@ -48,10 +48,10 @@ __High school diploma, "Liceo Scientifico Albert Einstein", Piove di Sacco, Ital
 ## Work Experience 
 
 __Master and bachelor thesis supervision, University of Padova. | 2020 - Ongoing__<br>
-Supervision of theses focusing on NTN channel modeling, simulating 5G NR beam management, and analyzing the performance of various TCP variants over high BDP channels. 
+Supervision of theses focusing on 3GPP 38.811-based NTN channel modeling, simulating 5G NR beam management, and analyzing the performance of various TCP variants over 5G NR high BDP channels. 
 
 __Google Summer of Code 2022 with the ns-3 organization. | May 2022 - Sep 2022__<br>
-Design and development of a performance-oriented MIMO channel model
+Design and development of a 3GPP 38.901-based performance-oriented MIMO channel model
 for ns-3, and optimization of the ns-3 channel model-related algebra routines.
 
 __“Studente 200 ore”, University of Padova. | 2017 - 2018__<br>
