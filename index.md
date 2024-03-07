@@ -70,12 +70,11 @@ Awarding institution: 2020 IEEE Mediterranean Communication and Computer Network
 
 
 ## Skills
-TODO: update and move to summary. I am an hard-working, extremely curious person who is always ready and willing to learn new things. I am also collaborative and capable to work well in a team of people. <br>
 
 __Languages:__ Italian - Mother tongue, English - B2 <br>
 __Programming languages:__ Python (NumPy, Matplotlib, Seaborn, SciPy), C++, C, Java, MATLAB<br>
 __Othe computing:__ ns-3, Git, LaTeX, Docker, Bash, Blender, Adobe Photoshop<br>
-__Others:__ Working knowledge of 3GPP (LTE, NR) and O-RAN standards.<br>
+__Others:__ Working knowledge of 3GPP (LTE, NR) and O-RAN standards. Research projects management.<br>
 __Driving license:__ B <br>
 
 <!-- ## Personal Interests
@@ -84,6 +83,6 @@ Technologies wise I like to fiddle around with 3D Graphics softwares, such as Bl
 
 <!-- ### Footer
 
-Last updated: Jan 2020 -->
+Last updated: Mar 2024 -->
 
 
