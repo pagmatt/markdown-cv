@@ -72,8 +72,8 @@ Awarding institution: 2020 IEEE Mediterranean Communication and Computer Network
 ## Skills
 
 __Languages:__ Italian - Mother tongue, English - B2 <br>
-__Programming languages:__ Python (NumPy, Matplotlib, Seaborn, SciPy), C++, C, Java, MATLAB<br>
-__Othe computing:__ ns-3, Git, LaTeX, Docker, Bash, Blender, Adobe Photoshop<br>
+__Programming languages:__ Python (NumPy, Matplotlib, Seaborn, SciPy), C++, C, Java, MATLAB.<br>
+__Othe computing:__ ns-3, Git, LaTeX, Bash. Working knowledge of OpenAir Interface 5G RAN and Docker.<br>
 __Others:__ Working knowledge of 3GPP (LTE, NR) and O-RAN standards. Research projects management.<br>
 __Driving license:__ B <br>
 
