@@ -34,7 +34,7 @@ __Postgraduate researcher, SIGNET Lab., University of Padova, Italy. |  Nov 2020
 Identification of promising solutions for NR-Light, and their end-to-end evaluation via system-level simulations.
 General [ns-3 mmWave module](https://github.com/nyuwireless-unipd/ns3-mmwave) development.
 
-__MSc. in ICT, University of Padova, Italy. |  Oct 2018 - Ongoing__ <br>
+__MSc. in ICT, University of Padova, Italy. |  Oct 2018 - Oct 2020 <br>
 Curricula Cybersystems.
 Final grade: 110 Cum Laude.
 
