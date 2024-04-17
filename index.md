@@ -38,7 +38,7 @@ __MSc. in ICT, University of Padova, Italy. |  Oct 2018 - Oct 2020__ <br>
 Curricula Cybersystems.
 Final grade: 110 Cum Laude.
 
-__BSc. in Information Engineering, University of Padova, Italy. | 2015 - Sep 2018__
+__BSc. in Information Engineering, University of Padova, Italy. | Oct 2015 - Sep 2018__
 <br>
 
 __High school diploma, "Liceo Scientifico Albert Einstein", Piove di Sacco, Italy. | 2010 - 2015__ 
