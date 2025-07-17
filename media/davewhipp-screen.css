@@ -49,8 +49,6 @@ table {
 
 /* end of reset */
 
-
-
 body {
 	font: normal normal 400;
 	font-size: 100%;
@@ -89,15 +87,17 @@ ul {
 	left: 25%;
 	width: 75%;
 	margin-bottom: 1.5em;
+	padding-left: 1.25em;
 	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+li:before {
+	content: "•";
 	position: relative;
-	left: -0.25em;
-}*/
+	left: -0.25 em;
+	margin-right: 0.5em;
+}
 
 li {
 	/*second line indent*/
@@ -108,7 +108,8 @@ li {
 
 li ul {
 	position: relative;
-	left: 0;
+	padding-inline-start: 2em;
+	left: 2em;
 	width: 100%;
 	margin-top: 0.25em;
 }
@@ -153,7 +154,7 @@ h3 {
 }
 
 a {
-	color: inherit;
+	color: #a00;
 	/*text-decoration:none*/
 }
 
