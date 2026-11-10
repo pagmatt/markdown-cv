@@ -16,22 +16,22 @@ PhD, R&D Researcher at Keysight Technologies Denmark
 
 ## Summary
 
-I am an R&D Researcher interested in the modeling, analysis and design of cellular telecommunication networks. In particular, most of my research focuses on protocol design for 5/6G communication networks, and their system-level performance evaluation, lately by leveraging and building upon Keysight's testing and measurement solutions.
-Formerly, by using simulation tools such as [ns-3](https://www.nsnam.org), and SDR-based testbeds such as [Colosseum](https://www.northeastern.edu/colosseum).
+I am an R&D Researcher passionate about the modeling, analysis and design of cellular telecommunication networks. In particular, my research focuses on protocol design, validation and  performance evaluation for 5G and 6G communication networks. Since joining Keysight, I worked on the latter by leveraging and building upon Keysight's testing and measurement solutions, for the most part within the context of EU-funded reasearch projects.
+Formerly, I focused on system-levl studies using, and pushing forward, simulation tools such as [ns-3](https://www.nsnam.org), and SDR-based testbeds such as [Colosseum](https://www.northeastern.edu/colosseum).
 
-As part of my research endeavors I have been developing and maintaining the [ns-3 mmWave module](https://github.com/nyuwireless-unipd/ns3-mmwave), i.e., an ns-3 module for simulating 5G networks and evaluating the performance of novel 5/6G solutions.
+As part of my research endeavors I had been developing and maintaining the [ns-3 mmWave module](https://github.com/nyuwireless-unipd/ns3-mmwave), i.e., an ns-3 module for simulating 5G networks and evaluating the performance of novel 5/6G solutions, and [SEM](https://github.com/signetlabdei/sem), i.e., a simulation manager for ns-3.
 
 ## Work Experience 
 
 __R&D Researcher, Keysight Technologies, Aalborg (Denmark). | Sep 2024 - Ongoing__<br>
-R&D activities, mostly within the below SNS-JU research projects.
+R&D activities, mostly within the context of the below SNS-JU research projects.
 <ul>
-  <li><a href="https://cordis.europa.eu/project/id/101096328">6G-SANDBOX:</a> Led tasks concerning Digital Twins (DTs), and KPI/KVI definition. Designed and developed a DT component for OpenNebula, using Packer for defining the corresponding appliance, and Jenkins for its automated deployment.</li> 
-  <li><a href="https://cordis.europa.eu/project/id/101096452">IMAGINE B-5G:</a>: Leading work package (WP4) concerning experimental facility validation, coordinating the benchmarking of the testbeds in terms of various network (throughput, latency, etc. etc.) and non- (power consumption) KPIs.</li>
-  <li><a href="https://cordis.europa.eu/project/id/101192650">UNITY-6G</a> : Leading the testing and integration tasks.</li>
+  <li><a href="https://cordis.europa.eu/project/id/101096328">6G-SANDBOX:</a> Led tasks concerning Digital Twins (DTs) and KPI/KVI definition. Designed and developed a DT component for OpenNebula, using Packer for defining the corresponding appliance, and Terraform and Jenkins for its automated deployment. Led the large-scale Non-Terrestrial Networks trials, ultimately validating multiple 5G NTN gNBs.</li> 
+  <li><a href="https://cordis.europa.eu/project/id/101096452">IMAGINE BEYOND-5G:</a>: Led work package concerning experimental facility validation by coordinating the benchmarking of the testbeds in terms of various network (throughput, latency, etc. etc.) and non- (power consumption) KPIs.</li>
+  <li><a href="https://cordis.europa.eu/project/id/101192650">UNITY-6G</a> and <a href="https://cordis.europa.eu/project/id/101287281">6G-NTN2 NEXUS</a> : Leading the testing and integration tasks.</li>
 </ul>
-
-and UNICO project FREE-6G.
+and the UNICO project FREE-6G.
+<!-- Participation to the SNS-JU Testing, Measurement and Validation (TMV) KPI sub-Working Group. -->
 
 __Master and bachelor thesis supervision, University of Padova. | 2020 - Sep 2024__<br>
 Supervision of theses focusing on 3GPP 38.811-based NTN channel modeling, simulating 5G NR beam management, and analyzing the performance of various TCP variants over 5G NR high BDP channels. 
@@ -83,14 +83,13 @@ Awarding institution: 2020 IEEE Mediterranean Communication and Computer Network
 __Languages:__ Italian - Mother tongue, English - C1 <br>
 __Programming languages:__ Python (NumPy, Matplotlib, Seaborn, SciPy), C++, C, Java, MATLAB.<br>
 __Othe computing:__ ns-3, Git, LaTeX, Bash. Working knowledge of OpenAir Interface 5G RAN,  Docker, Packer and OpenNebula.<br>
-__Others:__ Working knowledge of 3GPP (LTE, 5G NR) and O-RAN standards. Research project management.<br>
+__Others:__ Strong knowledge of 3GPP (5G NR) and O-RAN standards. Working knowledge of QKD. Research project management.<br>
 __Driving license:__ B <br>
 
 <!-- ## Personal Interests
 Technologies wise I like to fiddle around with 3D Graphics softwares, such as Blender, and I am passionate about computer graphics in general. I practice various sports such as swimming, track and field and Judo; and play the guitar. Finally, I am also interested in the socio-economic consequences of the current emerging technologies.<br> -->
 
-
-<!-- ### Footer
-Last updated: July 2025 -->
+### Footer
+Last updated: November 2026
 
 
