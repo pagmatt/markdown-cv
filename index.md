@@ -54,7 +54,7 @@ Private tutoring for high school students on scientific subjects (Math, Physics)
   <li>Maintainer/contributor of the ns-3 mmWave module used by researchers worldwide.</li>
   <li>Recipient of the IEEE WCNC Best Workshop Paper Award, Mario Gerla Best Paper Award, and SNS-JU Top 10 Achievement 2026 for the 6G-SANDBOX Large-scale trials.</li>
   <li>Contributor to multiple SNS-JU projects, including 6G-SANDBOX, IMAGINE BEYOND-5G, UNITY-6G, and 6G-NTN2 NEXUS.</li>
-<ul>
+</ul>
 
 ## Education
 
