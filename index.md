@@ -85,7 +85,8 @@ Awarding institution: 2020 IEEE Mediterranean Communication and Computer Network
 __Languages:__ Italian - Mother tongue, English - C1 <br>
 __Programming languages:__ Python (NumPy, Matplotlib, Seaborn, SciPy), C++, C, Java, MATLAB.<br>
 __Othe computing:__ ns-3, Git, LaTeX, Bash. Working knowledge of OpenAir Interface 5G RAN,  Docker, Packer and OpenNebula.<br>
-__Others:__ Strong knowledge of 3GPP (5G NR) and O-RAN standards. Working knowledge of QKD. Research project management.<br>
+__Others:__ Strong knowledge of 3GPP (5G NR) and O-RAN standards. Experience in using Keysight testing tools (UeSIM, PROPSIM, IxChariot suite).
+Working knowledge of QKD. Research project management.<br>
 __Driving license:__ B <br>
 
 <!-- ## Personal Interests
