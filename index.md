@@ -16,7 +16,9 @@ PhD, R&D Researcher at Keysight Technologies Denmark
 
 ## Summary
 
-I am an R&D Researcher passionate about the modeling, analysis and design of cellular telecommunication networks. In particular, my research focuses on protocol design, validation and  performance evaluation for 5G and 6G communication networks. Since joining Keysight, I worked on the latter by leveraging and building upon Keysight's testing and measurement solutions, for the most part within the context of EU-funded reasearch projects.
+I am an R&D Researcher passionate about the modeling, analysis and design of cellular telecommunication networks. 
+
+In particular, my research focuses on protocol design, validation and  performance evaluation for 5G and 6G communication networks. Since joining Keysight, I worked on the latter by leveraging and building upon Keysight's testing and measurement solutions, for the most part within the context of EU-funded reasearch projects.
 Formerly, I focused on system-levl studies using, and pushing forward, simulation tools such as [ns-3](https://www.nsnam.org), and SDR-based testbeds such as [Colosseum](https://www.northeastern.edu/colosseum).
 
 As part of my research endeavors I had been developing and maintaining the [ns-3 mmWave module](https://github.com/nyuwireless-unipd/ns3-mmwave), i.e., an ns-3 module for simulating 5G networks and evaluating the performance of novel 5/6G solutions, and [SEM](https://github.com/signetlabdei/sem), i.e., a simulation manager for ns-3.
@@ -34,7 +36,7 @@ and the UNICO project FREE-6G.
 <!-- Participation to the SNS-JU Testing, Measurement and Validation (TMV) KPI sub-Working Group. -->
 
 __Master and bachelor thesis supervision, University of Padova. | 2020 - Sep 2024__<br>
-Supervision of theses focusing on 3GPP 38.811-based NTN channel modeling, simulating 5G NR beam management, and analyzing the performance of various TCP variants over 5G NR high BDP channels. 
+Supervision of master theses focusing on 3GPP 38.811-based NTN channel modeling, 5G NR beam management simulation, and the performance analysis of various TCP variants over 5G NR high bandwidth-delay product channels. 
 
 __Google Summer of Code 2022 with the ns-3 organization. | May 2022 - Sep 2022__<br>
 Design and development of a 3GPP 38.901-based performance-oriented MIMO channel model
@@ -66,8 +68,8 @@ Final grade: 110 Cum Laude.
 __BSc. in Information Engineering, University of Padova, Italy. | Oct 2015 - Sep 2018__
 <br>
 
-__High school diploma, "Liceo Scientifico Albert Einstein", Piove di Sacco, Italy. | 2010 - 2015__ 
-<br>
+<!-- __High school diploma, "Liceo Scientifico Albert Einstein", Piove di Sacco, Italy. | 2010 - 2015__ 
+<br> -->
 
 ## Awards 
 
