@@ -18,7 +18,7 @@ PhD, R&D Researcher at Keysight Technologies Denmark
 
 I am an R&D Researcher passionate about the modeling, analysis and design of cellular telecommunication networks. 
 
-In particular, my research focuses on protocol design, validation and  performance evaluation for 5G and 6G communication networks. Since joining Keysight, I have worked on these topics by leveraging and extending Keysight's testing and measurement solutions, primarily within the context of EU-funded reasearch projects.
+In particular, my research focuses on protocol design, validation and  performance evaluation for 5G and 6G communication networks. Since joining Keysight, I have worked on these topics by leveraging and extending Keysight's testing and measurement solutions, primarily within the context of EU-funded research projects.
 Previously, I focused on system-level studies using and advancing simulation tools such as [ns-3](https://www.nsnam.org), and SDR-based testbeds such as [Colosseum](https://www.northeastern.edu/colosseum).
 
 As part of my research activities I developed and maintained the [ns-3 mmWave module](https://github.com/nyuwireless-unipd/ns3-mmwave), i.e., an ns-3 module for simulating 5G networks and evaluating the performance of novel 5/6G solutions, and [SEM](https://github.com/signetlabdei/sem), i.e., a simulation manager for ns-3.
@@ -29,8 +29,8 @@ __R&D Researcher, Keysight Technologies, Aalborg (Denmark). | Sep 2024 - Ongoing
 R&D activities, mostly within the context of the below SNS-JU research projects.
 <ul>
   <li><a href="https://cordis.europa.eu/project/id/101096328">6G-SANDBOX:</a> Led tasks concerning Digital Twins (DTs) and KPI/KVI definition. Designed and developed a DT component for OpenNebula, using Packer for defining the corresponding appliance, and Terraform and Jenkins for its automated deployment. Led the large-scale Non-Terrestrial Networks trials, resulting in the validation of multiple 5G NTN gNB implementations and the development of the associated testing methodology.</li> 
-  <li><a href="https://cordis.europa.eu/project/id/101096452">IMAGINE BEYOND-5G:</a>: Led  the work package on experimental facility validation by coordinating the benchmarking of testbeds in against various network KPIs (throughput, latency, etc. etc.) and non-network KPIs (such as power consumption).</li>
-  <li><a href="https://cordis.europa.eu/project/id/101192650">UNITY-6G</a> and <a href="https://cordis.europa.eu/project/id/101287281">6G-NTN2 NEXUS</a> : Leading testing and integration tasks.</li>
+  <li><a href="https://cordis.europa.eu/project/id/101096452">IMAGINE BEYOND-5G:</a>: Led  the work package on experimental facility validation by coordinating the benchmarking of testbeds against various network KPIs (throughput, latency, etc. etc.) and non-network KPIs (such as power consumption).</li>
+  <li><a href="https://cordis.europa.eu/project/id/101192650">UNITY-6G</a> and <a href="https://cordis.europa.eu/project/id/101287281">6G-NTN2 NEXUS</a>: Leading testing and integration tasks.</li>
 </ul>
 and the UNICO project FREE-6G.
 <!-- Participation to the SNS-JU Testing, Measurement and Validation (TMV) KPI sub-Working Group. -->
